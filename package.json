@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/JViniX/COMP229-2025-003-Backend/issues"
   },
-  "homepage": "https://github.com/JViniX/COMP229-2025-003-Backend#readme"
+  "homepage": "https://github.com/JViniX/COMP229-2025-003-Backend#readme",
+  "dependencies": {
+    "connect": "^3.7.0"
+  }
 }
